@@ -4,6 +4,12 @@
   <a href="https://www.linkedin.com/in/sravyasinfo/">Cybersecurity Professional</a>
 </h1>
 
+<h2>
+  Certifications <br\>
+  <a href="https://www.credly.com/badges/d8334778-04a4-486b-b4c3-b174d3ecace5/public_url">Network Defense</a>
+  
+</h2>
+
 linkedin: https://www.linkedin.com/in/sravyasinfo/
 <!--
 **Sravyaitis/Sravyaitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
